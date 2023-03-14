@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "name": "projeto_jest",
+  "version": "1.0.0",
+  "description": "projeto_jest",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "cidinha pinheiro",
+  "license": "ISC"
+}
